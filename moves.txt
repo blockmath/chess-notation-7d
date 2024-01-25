@@ -1,0 +1,17 @@
+GENERAL MOVES
+
+FOR PIECES:
+[piece]:(starting square)(ending square)
+[piece]:(starting square)x(ending square)
+For pawns, omit "[piece]:"
+If it's not needed you can omit the starting square
+
+CASTLING
+
+Four-tile castles: O{d}O
+Five-tile castles: O{d}O{d}O
+Replace {d} with the axis of castling
+For example, castling along the x-axis is notated OxO, castling along the y-axis is notated OyO, and castling along the v-axis is notated OvO
+
+SUFFIXES
+
