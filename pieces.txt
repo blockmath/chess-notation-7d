@@ -21,7 +21,7 @@ G g  {1..4}   Giraffe
 Π π  {1..7}   Archangel   ~A // Unsure if it should be ~A (the symbolic equivalent) or ~P (the translation/keyboard equivalent)
 
 Special Pieces
-K k  [1..7]#  King
+K k  [1..7]#  King (# doesn't mean royal, it means one square only)
 Q q  [1..7]   Queen
 P p  ?        Pawn
 
