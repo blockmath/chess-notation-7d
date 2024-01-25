@@ -1,0 +1,9 @@
+Possible notations for squares:
+
+Forward directions are numbers, all else are letters.
+(v)(w)(z)(y)(x)    i.e. a1aa1, c2db4
+
+Vectors.
+[x,y,z,w,v]        i.e. [1,1,1,1,1], [4,2,4,2,3]
+
+Timeline+turn notations are same as in standard 5D chess: prepend Tx(+/-)xL   i.e. T2+0L, T6-1L
