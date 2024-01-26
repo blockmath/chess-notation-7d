@@ -6,6 +6,8 @@ Forward directions are numbers, all else are letters; Z is Greek.
 3D: (z)(y)(x)    i.e. αa1, ψb4
 
 Vectors.
-[x,y,z,w,v]        i.e. [1,1,1,1,1], [4,2,4,2,3]
+5D: [x,y,z,w,v]        i.e. [1,1,1,1,1], [4,2,4,2,3]
+4D: [x,y,z,w]        i.e. [1,1,1,1], [4,4,2,3]
+3D: [x,y,z]        i.e. [1,1,1], [4,2,3]
 
 Timeline+turn notations are same as in standard 5D chess: prepend Tx(+/-)xL   i.e. T2+0L, T6-1L
