@@ -1,7 +1,9 @@
 Possible notations for squares:
 
-Forward directions are numbers, all else are letters.
-(v)(w)(z)(y)(x)    i.e. a1aa1, c2db4
+Forward directions are numbers, all else are letters; Z is Greek.
+5D: (v)(w)(z)(y)(x)    i.e. a1αa1, c2δb4
+4D: (z)(w)(y)(x)    i.e. α1a1, β3d4
+3D: (z)(y)(x)    i.e. αa1, βc4
 
 Vectors.
 [x,y,z,w,v]        i.e. [1,1,1,1,1], [4,2,4,2,3]
